@@ -4,7 +4,7 @@ A night owl project.
 
 Design inspiration
 
-[Inspiration](assets/design.png?raw=true "Design inspiration")
+[Inspiration](assets/design.png "Design inspiration")
 
 
 ## Getting Started
